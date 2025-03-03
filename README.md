@@ -1,10 +1,7 @@
 # 🚀 WeWard Front-End Challenge
 
----
-
 ## Objectif
 
----
 
 Sur la base du célèbre jeu "4 images 1 mot", vous devez tenter de reproduire le fonctionnement de ce jeu.
 
