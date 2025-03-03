@@ -11,9 +11,9 @@ Sur la base du célèbre jeu "4 images 1 mot", vous devez tenter de reproduire l
 ## Énoncé
 
 Votre objectif est d'initier un projet Expo avec React Native pour reproduire le fonctionnement du jeu "4 images 1 mot".
-Choisissez 4 images et un mot qui les relie. L'utilisateur doit deviner le mot en choisissant les lettres disponibles.
+Implémentez une API permettant d'obtenir 1 mot et 4 images liées à ce mot. L'utilisateur doit deviner le mot en choisissant les lettres disponibles.
 Lorsque le mot est correct, les lettres deviennent vertes. Sinon, elles deviennent rouges.
-Le jeu s'arrête lorsque l'utilisateur a trouvé le mot.
+Le jeu n'a pas de fin mais les points et les parties ne sont pas nécessairement comptabilisés.
 Les lettres disponibles sont affichées en 2 rangées de 6 lettres.
 
 
@@ -30,9 +30,14 @@ Les lettres disponibles sont affichées en 2 rangées de 6 lettres.
 * Vous devez installer le moins de dépendances/librairies possibles.
 * Votre application ne doit contenir qu'un seul écran.
 
+### Astuces
+* Voici une API permettant d'obtenir un mot [Rando](https://random-word-api.vercel.app/)
+* Voici une API permettant d'obtenir les images pour un mot donné [Pexels](https://www.pexels.com/api/)
+
+
 ## Installation
 
-Suivez Get Started de la documentation d'Expo pour initialiser votre projet.
+Suivez le Get Started de la documentation d'Expo pour initialiser votre projet.
 
 https://docs.expo.dev/get-started/create-a-project/
 
