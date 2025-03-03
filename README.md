@@ -38,4 +38,4 @@ https://docs.expo.dev/get-started/create-a-project/
 
 ## Submission
 
-* Forker ce repo et ouvrir une pull request 
+* Téléchargez votre projet sur un repository public et partagez-nous le lien.
