@@ -29,3 +29,13 @@ Les lettres disponibles sont affichées en 2 rangées de 6 lettres.
 * Essayez de reproduire cette UI le plus fidèlement possible.
 * Vous devez installer le moins de dépendances/librairies possibles.
 * Votre application ne doit contenir qu'un seul écran.
+
+## Installation
+
+Suivez Get Started de la documentation d'Expo pour initialiser votre projet.
+
+https://docs.expo.dev/get-started/create-a-project/
+
+## Submission
+
+* Forker ce repo et ouvrir une pull request 
